@@ -683,6 +683,10 @@ footer .body .right
             display: flex;
             justify-content: left;
             margin-left: 40px;
+            position : fixed;
+            background-color :#fff;
+            width :100%;
+            z-index:1;
         }
     
         .left{
