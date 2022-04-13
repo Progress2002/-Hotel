@@ -682,7 +682,7 @@ footer .body .right
         .flex-container{
             display: flex;
             justify-content: left;
-            margin-left: 40px;
+            padding-left: 40px;
             position : fixed;
             background-color :#fff;
             width :100%;
